@@ -16,5 +16,4 @@
 
 ## Contacto
 
-[LinkedIn](
-www.linkedin.com/in/rodrigo-andrés-martínez-820112259) · [ResearchGate](https://www.researchgate.net/profile/Rodrigo-Andres-Martinez) · rmartinezm@unimayor.edu.co
+[LinkedIn](www.linkedin.com/in/rodrigo-andrés-martínez-820112259) · [ResearchGate](https://www.researchgate.net/profile/Rodrigo-Andres-Martinez) · rmartinezm@unimayor.edu.co
