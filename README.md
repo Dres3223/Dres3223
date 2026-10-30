@@ -2,7 +2,7 @@
 
 **Ingeniería de Datos para IA · DevOps** — Estudiante de último año de Ingeniería Informática en Popayán, Colombia (grado: primer semestre 2027).
 
-- 🔊 Investigador en **Urbanphony** (Minciencias): datasets de paisaje sonoro para entrenar redes neuronales convolucionales (CNN), con estancia científica en Austria.
+- 🔊 Investigador en **Urbanphony** (Minciencias): datasets de paisaje sonoro para entrenar redes neuronales convolucionales (CNN), con estancia científica en Europa.
 - 📄 Coautor en Springer Nature: [*Automated Machine Learning Prototype for Detecting Phishing, Deepfakes, and Fraudulent Audio Patterns*](https://link.springer.com/chapter/10.1007/978-3-031-75233-9_20) (18CCC, 2024).
 - 🛠️ Ahora construyendo: pipelines de datos con Airflow, dbt y Terraform en AWS.
 - 🌎 Abierto a oportunidades remotas o híbridas como **Data Engineer**, **Data Platform** o **AI/ML Engineer junior**.
